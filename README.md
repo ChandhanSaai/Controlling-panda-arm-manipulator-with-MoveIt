@@ -28,7 +28,7 @@ This project implements a pick-and-place task using the Panda robotic arm with *
 ## Setup Instructions
 - Clone the repository into your ROS 2 workspace:
 ```cpp
-git clone https://github.com/<your-repo>/moveit-panda-arm.git
+git clone https://github.com/ChandhanSaai/Controlling-panda-arm-manipulator-with-MoveIt.git
 ```
 - Build and Source the workspace:
 ```cpp
